@@ -11,7 +11,7 @@
 body {
   font-family: 'Roboto', sans-serif;
   font-size: 1.6rem;
-  background-image: url('../img/mountains-universe-1.jpg');
+  background-image: url('./img/mountains-universe-1.jpg');
   background-repeat: no-repeat;
   background-size: cover;
 
